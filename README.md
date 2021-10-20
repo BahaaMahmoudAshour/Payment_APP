@@ -1,4 +1,6 @@
 # PaymentApp
+![image](https://user-images.githubusercontent.com/7542495/138073684-f78e87dc-efd3-46b6-a973-ba546130a1d1.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
